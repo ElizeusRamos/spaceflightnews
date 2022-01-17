@@ -1,0 +1,15 @@
+package com.spaceflightsnews.repository;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArticleRepository {
+
+	
+	//teste de retorno
+	public List<String> findAllArticlesNames(){
+		var lista = new ArrayList<String>();
+		
+		return lista;
+	}
+}
