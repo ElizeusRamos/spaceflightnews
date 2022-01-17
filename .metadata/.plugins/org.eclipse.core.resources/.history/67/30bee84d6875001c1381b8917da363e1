@@ -1,0 +1,5 @@
+package com.spaceflightsnews.repository;
+
+public class ArticleRepository {
+
+}

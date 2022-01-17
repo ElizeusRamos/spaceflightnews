@@ -1,0 +1,5 @@
+package com.spaceflightsnews.controller;
+
+public class ArticleController {
+
+}
