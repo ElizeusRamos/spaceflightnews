@@ -11,6 +11,7 @@ Nesse desafio foi desenvolvida uma REST API que utiliza os dados do projeto Spac
 - Cucumber (junit), Mockito
 - Mysql Server https://elements.heroku.com/addons/jawsdb
 - Heroku 
+- Docker
 - Conceito API
 - Metodologia de entrega e organização Kanban
 
