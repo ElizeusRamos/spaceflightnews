@@ -9,6 +9,7 @@ Nesse desafio foi desenvolvida uma REST API que utiliza os dados do projeto Spac
 - Maven
 - Swagger (OpenAPI 3.0)
 - Cucumber (junit), Mockito
+- DBeaver (para comandos sql)
 - Mysql Server https://elements.heroku.com/addons/jawsdb
 - Heroku 
 - Docker
