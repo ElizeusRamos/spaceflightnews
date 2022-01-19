@@ -25,6 +25,7 @@ projeto: https://github.com/users/ElizeusRamos/projects/2
 ![swagger-api-backchallenge](https://user-images.githubusercontent.com/83174570/149967280-6c34a36d-8b53-4def-a115-9db2d5d64482.png)
 
   
+link do video de apresentação do projeto: https://www.loom.com/share/cf4fdaf4c87443f29a3644755acd0712
 
 
 This is a challenge by Coodesh https://coodesh.com/
