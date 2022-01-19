@@ -10,7 +10,7 @@ Nesse desafio foi desenvolvida uma REST API que utiliza os dados do projeto Spac
 - Swagger (OpenAPI 3.0)
 - Cucumber (junit), Mockito
 - DBeaver (para comandos sql)
-- Mysql Server https://elements.heroku.com/addons/jawsdb
+- [Mysql Server](https://elements.heroku.com/addons/jawsdb)
 - Heroku 
 - Docker
 - Conceito API
@@ -28,4 +28,4 @@ projeto: https://github.com/users/ElizeusRamos/projects/2
 link do video de apresentação do projeto: https://www.loom.com/share/cf4fdaf4c87443f29a3644755acd0712
 
 
-This is a challenge by Coodesh https://coodesh.com/
+This is a challenge by [Coodesh](https://coodesh.com/)
