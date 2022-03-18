@@ -17,8 +17,7 @@ Nesse desafio foi desenvolvida uma REST API que utiliza os dados do projeto Spac
 - Metodologia de entrega e organização Kanban
 
 projeto: https://github.com/users/ElizeusRamos/projects/2
-# Como instalar e usar o projeto (instruções)
-- utilizar 'Docker' 'Dockerhub' (rodar o comando no shellterminal: docker run -d -p 8080:8080 whitegoat/spaceflightnewsv2 ), irá rodar a imagem no container sem maiores configurações
+# Documentação da API
 - para acessar a documentação da api: IP_MAQUINA_LOCAL:8080/swagger-ui/index.html
 
   
